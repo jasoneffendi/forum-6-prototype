@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/forum-6-prototype/static/css/main.a617e044.chunk.css",
-    "main.js": "/forum-6-prototype/static/js/main.df09bf48.chunk.js",
-    "main.js.map": "/forum-6-prototype/static/js/main.df09bf48.chunk.js.map",
-    "runtime-main.js": "/forum-6-prototype/static/js/runtime-main.d6f22931.js",
-    "runtime-main.js.map": "/forum-6-prototype/static/js/runtime-main.d6f22931.js.map",
-    "static/js/2.65c3d9b7.chunk.js": "/forum-6-prototype/static/js/2.65c3d9b7.chunk.js",
-    "static/js/2.65c3d9b7.chunk.js.map": "/forum-6-prototype/static/js/2.65c3d9b7.chunk.js.map",
-    "static/js/3.337d2c37.chunk.js": "/forum-6-prototype/static/js/3.337d2c37.chunk.js",
-    "static/js/3.337d2c37.chunk.js.map": "/forum-6-prototype/static/js/3.337d2c37.chunk.js.map",
+    "main.css": "/forum-6-prototype/static/css/main.4e2080f5.chunk.css",
+    "main.js": "/forum-6-prototype/static/js/main.f005a209.chunk.js",
+    "main.js.map": "/forum-6-prototype/static/js/main.f005a209.chunk.js.map",
+    "runtime-main.js": "/forum-6-prototype/static/js/runtime-main.42f93928.js",
+    "runtime-main.js.map": "/forum-6-prototype/static/js/runtime-main.42f93928.js.map",
+    "static/js/2.21d89f67.chunk.js": "/forum-6-prototype/static/js/2.21d89f67.chunk.js",
+    "static/js/2.21d89f67.chunk.js.map": "/forum-6-prototype/static/js/2.21d89f67.chunk.js.map",
+    "static/js/3.cc28a050.chunk.js": "/forum-6-prototype/static/js/3.cc28a050.chunk.js",
+    "static/js/3.cc28a050.chunk.js.map": "/forum-6-prototype/static/js/3.cc28a050.chunk.js.map",
     "index.html": "/forum-6-prototype/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/forum-6-prototype/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.65c3d9b7.chunk.js.LICENSE.txt": "/forum-6-prototype/static/js/2.65c3d9b7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/forum-6-prototype/static/media/logo.6ce24c58.svg"
+    "static/css/main.4e2080f5.chunk.css.map": "/forum-6-prototype/static/css/main.4e2080f5.chunk.css.map",
+    "static/js/2.21d89f67.chunk.js.LICENSE.txt": "/forum-6-prototype/static/js/2.21d89f67.chunk.js.LICENSE.txt",
+    "static/media/argentina.62013233.png": "/forum-6-prototype/static/media/argentina.62013233.png",
+    "static/media/brazil-argentina.99265b05.jpg": "/forum-6-prototype/static/media/brazil-argentina.99265b05.jpg",
+    "static/media/brazil.517492fc.png": "/forum-6-prototype/static/media/brazil.517492fc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6f22931.js",
-    "static/js/2.65c3d9b7.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.df09bf48.chunk.js"
+    "static/js/runtime-main.42f93928.js",
+    "static/js/2.21d89f67.chunk.js",
+    "static/css/main.4e2080f5.chunk.css",
+    "static/js/main.f005a209.chunk.js"
   ]
 }
