@@ -1,3 +1,6 @@
+# Forum 6 Prototype
+Quick and dirty prototype, no APIs used.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

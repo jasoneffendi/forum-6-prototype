@@ -1,0 +1,10 @@
+.discussionList {
+
+}
+
+.discussionList > * {
+    border-bottom: 1px solid #ccc;
+}
+.discussionList > *:last-child {
+    border-bottom: 1px solid #ccc;
+}

@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+:root {
+  --primary: #ff0000;
+  --white: #fff;
+  --main-font: 'Open Sans';
+}
+
+* {
+  box-sizing: border-box;
+}

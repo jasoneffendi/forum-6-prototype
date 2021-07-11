@@ -1,0 +1,56 @@
+.header {
+    margin: 12px 0px 20px 0px;
+}
+
+.scoreContainer {
+    padding: 0px 12px 12px 12px;
+}
+
+.backButton {
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    height: 20px;
+}
+
+.videoPlayer {
+    width: 100vw;
+    height: 56.25vw;
+}
+
+.discussionSection {
+    height: calc(100vh - 56.25vw - 171px);
+    overflow: scroll;
+}
+
+.discussionCommentList > * {
+    border-bottom: 1px solid #ccc;
+}
+.discussionCommentList > *:last-child {
+    border-bottom: 1px solid #ccc;
+}
+
+.commentInputSection {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px;
+    border: 1px solid #ccc;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    background-color: #fff;
+}
+
+.commentInput {
+    padding: 5px;
+    width: 85%;
+    font-family: 'Open Sans';
+}
+.commentSend {
+    padding: 5px;
+    background-color: indianred;
+    color: white;
+    font-family: 'Open Sans';
+    border-radius: 8px;
+}

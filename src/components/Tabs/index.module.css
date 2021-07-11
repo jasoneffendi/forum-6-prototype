@@ -1,0 +1,10 @@
+.tabList {
+    border-bottom: 1px solid #ccc;
+    padding-left: 0;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: -1px 4px 8px -2px rgba(0,0,0,0.13);
+    -webkit-box-shadow: -1px 4px 8px -2px rgba(0,0,0,0.13);
+    -moz-box-shadow: -1px 4px 8px -2px rgba(0,0,0,0.13);
+    margin: 0px;
+}

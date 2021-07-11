@@ -1,0 +1,10 @@
+.header {
+    font-weight: bold;
+    font-family: var(--main-font);
+    margin-bottom: 16px;
+}
+
+.topSection {
+    padding: 12px;
+    background-color: var(--white);
+}

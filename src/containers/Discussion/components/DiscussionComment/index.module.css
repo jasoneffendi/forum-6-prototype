@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    padding: 8px 16px;
+    gap: 8px;
+}
+
+.commentAuthorIcon {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.commentContent {
+    text-align: left;
+}
+
+.commentAuthor {
+    font-weight: bold;
+}
