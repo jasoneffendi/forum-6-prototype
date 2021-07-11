@@ -12,7 +12,7 @@ import Discussion from './containers/Discussion'
 function App() {
   return (
     <div className='App'>
-      <Router>
+      <Router basename="/forum-6-prototype">
         <div>
           <Switch>
             <Route exact path='/discussion/:id'>
