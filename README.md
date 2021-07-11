@@ -1,6 +1,10 @@
 # Forum 6 Prototype
 Quick and dirty prototype, no APIs used.
-
+- Styles are a mess
+- No scroll on comment
+- No APIs
+- Structure is an afterthought
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
