@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/forum-6-prototype/static/css/main.4e2080f5.chunk.css",
-    "main.js": "/forum-6-prototype/static/js/main.f005a209.chunk.js",
-    "main.js.map": "/forum-6-prototype/static/js/main.f005a209.chunk.js.map",
+    "main.js": "/forum-6-prototype/static/js/main.d9c2c029.chunk.js",
+    "main.js.map": "/forum-6-prototype/static/js/main.d9c2c029.chunk.js.map",
     "runtime-main.js": "/forum-6-prototype/static/js/runtime-main.42f93928.js",
     "runtime-main.js.map": "/forum-6-prototype/static/js/runtime-main.42f93928.js.map",
     "static/js/2.21d89f67.chunk.js": "/forum-6-prototype/static/js/2.21d89f67.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.42f93928.js",
     "static/js/2.21d89f67.chunk.js",
     "static/css/main.4e2080f5.chunk.css",
-    "static/js/main.f005a209.chunk.js"
+    "static/js/main.d9c2c029.chunk.js"
   ]
 }
